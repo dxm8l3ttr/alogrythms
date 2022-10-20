@@ -1,0 +1,12 @@
+C:\Users\Surface\RiderProjects\Algorythms\Algorythms.Core\bin\Debug\net6.0\Algorythms.Core.deps.json
+C:\Users\Surface\RiderProjects\Algorythms\Algorythms.Core\bin\Debug\net6.0\Algorythms.Core.dll
+C:\Users\Surface\RiderProjects\Algorythms\Algorythms.Core\bin\Debug\net6.0\Algorythms.Core.pdb
+C:\Users\Surface\RiderProjects\Algorythms\Algorythms.Core\obj\Debug\net6.0\Algorythms.Core.csproj.AssemblyReference.cache
+C:\Users\Surface\RiderProjects\Algorythms\Algorythms.Core\obj\Debug\net6.0\Algorythms.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Surface\RiderProjects\Algorythms\Algorythms.Core\obj\Debug\net6.0\Algorythms.Core.AssemblyInfoInputs.cache
+C:\Users\Surface\RiderProjects\Algorythms\Algorythms.Core\obj\Debug\net6.0\Algorythms.Core.AssemblyInfo.cs
+C:\Users\Surface\RiderProjects\Algorythms\Algorythms.Core\obj\Debug\net6.0\Algorythms.Core.csproj.CoreCompileInputs.cache
+C:\Users\Surface\RiderProjects\Algorythms\Algorythms.Core\obj\Debug\net6.0\Algorythms.Core.dll
+C:\Users\Surface\RiderProjects\Algorythms\Algorythms.Core\obj\Debug\net6.0\refint\Algorythms.Core.dll
+C:\Users\Surface\RiderProjects\Algorythms\Algorythms.Core\obj\Debug\net6.0\Algorythms.Core.pdb
+C:\Users\Surface\RiderProjects\Algorythms\Algorythms.Core\obj\Debug\net6.0\ref\Algorythms.Core.dll
