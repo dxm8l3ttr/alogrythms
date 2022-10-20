@@ -1,4 +1,5 @@
 ﻿using System.Collections;
+using System.ComponentModel.DataAnnotations;
 
 namespace Algorythms.Core;
 
@@ -116,24 +117,7 @@ public class SingleLinkedList<T> : IList<T>
             return false;
         }
         var index = IndexOf(item);
-        if (index == 0)
-        {
-            firstNode = GetNodeAt(1);
-            _count--;
-        }
-        var nodeBefore = GetNodeAt(index-1);
-        if (index == Count - 1)
-        {
-            lastNode = nodeBefore;
-            nodeBefore.Next = null;
-            _count--;
-            return true;
-        }
-
-        var nodeAfter = nodeBefore.Next.Next;
-        
-        nodeBefore.Next = nodeAfter;
-        _count--;
+        RemoveAt(index);
         return true;
     }
 
@@ -180,8 +164,26 @@ public class SingleLinkedList<T> : IList<T>
 
     public void RemoveAt(int index)
     {
-        var node = GetNodeAt(index-1);
-        node.Next = node.Next.Next;
+        if (Count - 1 > index && index > 0)
+        {
+            var node = GetNodeAt(index-1);
+            node.Next = node.Next.Next;
+            _count--;
+            return;
+        }
+
+        if (Count - 1 == index)
+        {
+            if (Count < 1)
+            {
+                Clear();
+                return;
+            }
+            lastNode = GetNodeAt(Count - 2);
+            _count--;
+            return;
+        }
+        firstNode = firstNode.Next;
         _count--;
     }
 
@@ -195,5 +197,16 @@ public class SingleLinkedList<T> : IList<T>
         {
             GetNodeAt(index).Value = value;
         }
+    }
+
+    public SingleLinkedList<T> Reversed()
+    {
+        var reversedList = new SingleLinkedList<T>();
+        foreach (var i in ..(Count - 1))
+        {
+            reversedList.Add(this[(Count - i) - 1]);
+        }
+
+        return reversedList;
     }
 }

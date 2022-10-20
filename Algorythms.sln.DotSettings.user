@@ -4,37 +4,11 @@
     &lt;TestId&gt;xUnit::49109130-8695-4497-B8F2-F7537C265D8C::net6.0::Algorythms.Tests.SingleLinkedListTest&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=53b078e2_002De2f5_002D4259_002Dac65_002D28d95fd17e5a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Session" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;xUnit::49109130-8695-4497-B8F2-F7537C265D8C::net6.0::Algorythms.Tests.SingleLinkedListTest.Test1&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::49109130-8695-4497-B8F2-F7537C265D8C::net6.0::Algorythms.Tests.ExtensionTest.Test1&lt;/TestId&gt;&#xD;
-  &lt;/TestAncestor&gt;&#xD;
-&lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=85d82e71_002Dd366_002D4b2d_002Dba34_002Dc6d61aacb62c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1 #7" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;xUnit::49109130-8695-4497-B8F2-F7537C265D8C::net6.0::Algorythms.Tests.SingleLinkedListTest.Test1&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::49109130-8695-4497-B8F2-F7537C265D8C::net6.0::Algorythms.Tests.ExtensionTest.Test1&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::49109130-8695-4497-B8F2-F7537C265D8C::net6.0::Algorythms.Tests.SingleLinkedListTest&lt;/TestId&gt;&#xD;
-  &lt;/TestAncestor&gt;&#xD;
-&lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a56ae005_002Ddc83_002D4eaf_002D9967_002D8ff3e04257d5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1 #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;xUnit::49109130-8695-4497-B8F2-F7537C265D8C::net6.0::Algorythms.Tests.SingleLinkedListTest.Test1&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::49109130-8695-4497-B8F2-F7537C265D8C::net6.0::Algorythms.Tests.ExtensionTest.Test1&lt;/TestId&gt;&#xD;
-  &lt;/TestAncestor&gt;&#xD;
-&lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a68924c7_002D5b4e_002D4c52_002Db478_002D1e6c11a7f9be/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1 #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;xUnit::49109130-8695-4497-B8F2-F7537C265D8C::net6.0::Algorythms.Tests.SingleLinkedListTest.Test1&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::49109130-8695-4497-B8F2-F7537C265D8C::net6.0::Algorythms.Tests.ExtensionTest.Test1&lt;/TestId&gt;&#xD;
-  &lt;/TestAncestor&gt;&#xD;
-&lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=af5479e4_002Da8cd_002D4af8_002D907e_002D4a41170f79a4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1 #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;xUnit::49109130-8695-4497-B8F2-F7537C265D8C::net6.0::Algorythms.Tests.SingleLinkedListTest.Test1&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::49109130-8695-4497-B8F2-F7537C265D8C::net6.0::Algorythms.Tests.ExtensionTest.Test1&lt;/TestId&gt;&#xD;
-  &lt;/TestAncestor&gt;&#xD;
-&lt;/SessionState&gt;</s:String>
+	
+	
+	
+	
+	
 	
 	
 	

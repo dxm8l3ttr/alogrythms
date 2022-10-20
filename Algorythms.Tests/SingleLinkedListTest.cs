@@ -49,6 +49,19 @@ public class SingleLinkedListTest
     }
 
     [Fact]
+    public void RemoveAtTest()
+    {
+        var list = new SingleLinkedList<int>();
+        list.Add(4);
+        list.Add(45);
+        list.Add(325);
+        list.Add(13515);
+        list.RemoveAt(2);
+        
+        Assert.Equal(13515, list[2]);
+    }
+
+    [Fact]
     public void RemoveTest()
     {
         var list = new SingleLinkedList<int>();
@@ -60,5 +73,23 @@ public class SingleLinkedListTest
         
         Assert.False(list.Remove(15));
         Assert.Equal(45, list[0]);
+    }
+
+    [Fact]
+    public void ReversedListTest()
+    {
+        var list = new SingleLinkedList<int>();
+        list.Add(4);
+        list.Add(6);
+        list.Add(35);
+        list.Add(43);
+        list.Add(60);
+        list.Add(104);
+        list.Add(340);
+        list.Add(350);
+        var actual = list.Reversed();
+        
+        Assert.Equal(35, actual[5]);
+        Assert.Equal(104, actual[2]);
     }
 }
